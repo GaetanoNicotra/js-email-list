@@ -1,0 +1,13 @@
+.body{
+    background-color: rgba(34, 102, 179, 0.568);
+}
+
+ul{
+    list-style-type: none;
+    line-height: 40px;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.74);
+    border: 3px dotted rgba(0, 0, 0, 0.74);
+    border-radius: 50px;
+}
+ 
